@@ -1,0 +1,28 @@
+Codebuch:
+Ausgewertet wurde die Gästeliste der Talkshow Anne Will und die Folgen 500 bis 505 zum Thema Ukraine Krieg.
+Quelle: https://www.fernsehserien.de/anne-will/folgen/500-keine-entspannung-im-konflikt-mit-putin-wie-ist-ein-neuer-krieg-zu-verhindern-1532088
+
+				
+				
+				
+Edgelist				
+				
+from = ID des Knoten Mitglied				
+				
+to = ID des Knoten Mitgliedschaft				
+				
+relationship: 1 = Teilnahme an der  Talkshow Anne Will 2 = Mitglied in einer Partei				
+				
+Nodelist				
+				
+id = ID aus der Edgelist, Abkürzung des Namens				
+				
+name = Voller Name/Name der Person				
+				
+party = Parteizugehörigkeit wie CDU oder SPD				
+sector= Spezialgebiet/ Arbeitsbereich				
+country = Wohnort				
+				
+type = 1 als Person,				
+				
+2 als Organisation	
